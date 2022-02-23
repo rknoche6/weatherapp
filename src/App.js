@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Weather from './components/weather.component'
+import Weather from './components/weather'
 require('dotenv').config();
 
 const API_KEY = process.env.REACT_APP_API_KEY;
