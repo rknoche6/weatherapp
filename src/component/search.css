@@ -1,0 +1,13 @@
+.form-group {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .form-control {
+    flex: 5;
+  }
+  
+  .btn {
+    flex: 1;
+    border: solid 2px rgba(255, 255, 255, 0.719);
+  }
